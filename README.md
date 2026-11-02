@@ -1,2 +1,5 @@
 # qanevillembvy.github.io
-Personal page
+
+Source of [qanevillembvy.github.io](https://qanevillembvy.github.io).
+
+The parts that never make it into the changelog.
